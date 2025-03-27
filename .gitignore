@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv_nlp/
+env/
+.venv/
+
+# Archivos de configuración de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de PyCharm, VSCode, etc.
+.idea/
+.vscode/
+
+# Archivos compilados o temporales
+__pycache__/
+*.pyc
