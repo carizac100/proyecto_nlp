@@ -13,3 +13,7 @@ env/
 # Archivos compilados o temporales
 __pycache__/
 *.pyc
+
+# Archivos de datos Parquet
+*.parquet
+*.parquet
